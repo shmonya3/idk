@@ -1,0 +1,28 @@
+body {
+background-color: #8287cf;
+}
+
+h1 {
+  font-family: tahoma;
+}
+
+h2 {
+  font-family: arial;
+  font-size: 20px;
+}
+
+p { 
+ font-family: monospace;
+ font-size: 15px;
+}
+
+a {
+ font-family: monospace;
+ font-size: 15px;
+}
+
+img {
+    width: 480px;
+  height: 300px;
+display: inline-block;
+}

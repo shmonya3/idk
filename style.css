@@ -1,0 +1,39 @@
+h1{
+  font-family: fantasy;
+ font-size: 63px;
+}
+
+h2 {
+  font-family: Arial;
+}
+
+h3 {
+ font-family: candara;
+ font-size: 22px;
+color: #cad2e0;
+}
+
+h4 {
+ font-family: candara;
+ font-size: 25px;
+color: #0a0a0a;
+}
+
+p {
+  font-family: times-new-roman;
+color: #fcfeff;
+}
+
+img {
+    width: 500px;
+  height: 300px;
+}
+
+u {
+color: #1315d1;
+}
+
+.underline {
+  text-decoration: underline;
+color:#f0e80c;
+}
